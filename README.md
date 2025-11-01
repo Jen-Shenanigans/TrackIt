@@ -1,5 +1,7 @@
 # TrackIt
-Need to plan your finance? Don't worry, TrackIt does it all! Your personal budgeting partner can do these things:
+Looking to take control of your finances? No worries — TrackIt has you covered!
+
+Your personal budgeting partner helps you effortlessly manage your money by doing things like:
 * Keep track of every transactions you made, whether it's five minutes ago or years ago
 * Compare your monthly spending with your monthly budget, to see whether you have overspent
 * Give an overview of your spendings, including your top and bottom five spendings, frequently spent categories, as well as visual representations of your spendings
