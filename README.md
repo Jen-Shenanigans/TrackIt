@@ -46,7 +46,7 @@ Below are the steps to install and set up your environment for this project.
   source venv/bin/activate   # On macOS/Linux
   venv\Scripts\activate      # On Windows
   ```
-* Install required dependencies using the ```requirement.txt``` file
+* Install required dependencies using the ```requirements.txt``` file
   ```sh
   pip install -r requirements.txt
   ```
