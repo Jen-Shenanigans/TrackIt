@@ -63,18 +63,19 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch 
+3. Commit your Changes 
+4. Push to the Branch 
 5. Open a Pull Request
-
-### Top contributors:
-
-<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
-</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+## Contact
+Ng Jen Shen - @Jen-Shenanigans - jenshen.ng001@gmail.com
+
+Project link: [https://github.com/Jen-Shenanigans/TrackIt](https://github.com/Jen-Shenanigans/TrackIt)
+
+## Acknowledgements
+A huge thanks to my professor who sparked interest of Python in me, and inspiring me to create my biggest project ever. Special thanks to the developers of open-source tools and libraries, including [Python](https://www.python.org/downloads), [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Openpyxl](https://openpyxl.readthedocs.io/en/stable/) and [Scikit-learn](https://scikit-learn.org/).
+This project wouldn't be possible without the help of various online resources and the open-source community.
