@@ -81,3 +81,5 @@ Project link: [https://github.com/Jen-Shenanigans/TrackIt](https://github.com/Je
 ## Acknowledgements
 A huge thanks to my professor who sparked interest of Python in me, and inspiring me to create my biggest project ever. Special thanks to the developers of open-source tools and libraries, including [Python](https://www.python.org/downloads), [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Openpyxl](https://openpyxl.readthedocs.io/en/stable/) and [Scikit-learn](https://scikit-learn.org/).
 This project wouldn't be possible without the help of various online resources and the open-source community.
+
+Also thank you to [Othneil Drew](https://github.com/othneildrew) for this [README template](https://github.com/othneildrew/Best-README-Template).
