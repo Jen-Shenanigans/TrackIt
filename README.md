@@ -6,7 +6,6 @@ Your personal budgeting partner helps you effortlessly manage your money by doin
 * Compare your monthly spending with your monthly budget, to see whether you have overspent
 * Give an overview of your spendings, including your top and bottom five spendings, frequently spent categories, as well as visual representations of your spendings
 * Filtering your expenses by date, categories, or methods of payment for easy access
-* Predict how much your next month spending (coming soon)
 
 ### Built With:
 * Python 3.13
@@ -15,7 +14,6 @@ Your personal budgeting partner helps you effortlessly manage your money by doin
 * Pandas
 * Seaborn
 * Visual Studio Code
-* Sklearn
 
 ## Getting Started
 This guide will help you set up the project locally.
