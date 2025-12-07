@@ -32,11 +32,11 @@ Make sure you have the following installed before proceeding:
 Below are the steps to install and set up your environment for this project.
 * Clone the repository
   ```sh
-  git clone https://github.com/github_username/repo_name.git
+  git clone https://github.com/Jen-Shenanigans/TrackIt.git
   ```
 * Navigate into the project directory
   ```sh
-  cd repo_name
+  cd TrackIt
   ```
 * (Optional but recommended) Create and activate a virtual environment
   ```sh
@@ -51,7 +51,7 @@ Below are the steps to install and set up your environment for this project.
 * Run the project
 * Change git remote URL to avoid accidental pushes to the original project
   ```sh
-  git remote set-url origin https://github.com/your_username/your_repo.git
+  git remote set-url origin https://github.com/Jen-Shenanigans/TrackIt.git
   git remote -v  # confirm the changes
   ```
 
